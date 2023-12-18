@@ -1,0 +1,12 @@
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 700px;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
+.color{
+    background-color: rgb(139, 18, 18);
+}
